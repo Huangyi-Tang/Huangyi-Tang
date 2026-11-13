@@ -8,11 +8,11 @@
 
 <p>I am a PhD student in the Department of Animal Science at Purdue University.</p>
 
-<p>📊 My research focuses on <strong>genomic selection (GS)</strong> 🧬,<br>
-<strong>genetic parameter estimation</strong> 📈, and 
+<p> My research focuses on <strong>genomic selection (GS)</strong> ,<br>
+<strong>genetic parameter estimation</strong> , and 
 <strong>genetic diversity</strong> 🔬.</p>
 
-<p>🛠️ I am also interested in developing small tools to make research workflows easier.</p>
+<p> I am also interested in developing small tools to make research workflows easier.</p>
 
 </td>
 
